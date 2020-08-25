@@ -7,7 +7,7 @@
 ### Connect
 <a href="https://www.linkedin.com/in/zimmergren"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://twitter.com/zimmergren"><img src="https://img.shields.io/twitter/follow/zimmergren?label=Twitter&style=social" alt="Twitter"></a>
 
-📫💡🙏 Connect and sign up to my newsletter https://zimmergren.net/newsletter
+📫💡🙏 Connect with me on LinkedIn, Twitter or through my blog.
 
 ### Recently published
 - 2020-08-24: [Get notified of changes in Azure Key Vault by using Event Grid](https://zimmergren.net/get-notified-of-changes-in-azure-key-vault-using-event-grid/)
