@@ -10,8 +10,8 @@
 📫💡🙏 Connect with me on LinkedIn, Twitter or through my blog.
 
 ### Recently published
+- 2020-09-08: [Use the Microsoft Application Inspector to analyse source code](https://zimmergren.net/use-microsoft-application-inspector-to-analyze-source-code/)
 - 2020-08-24: [Get notified of changes in Azure Key Vault by using Event Grid](https://zimmergren.net/get-notified-of-changes-in-azure-key-vault-using-event-grid/)
 - 2020-07-28: [Website security scanning with GitHub Actions and OWASP ZAP](https://zimmergren.net/security-scanning-with-github-actions-and-owasp-zap/)
 - 2020-07-20: [Use Application Insights for Worker Service applications in .NET Core console apps, containers, and any non-HTTP apps](https://zimmergren.net/use-application-insights-workerservice-console-containers-non-http/)
 - 2020-07-13: [Create a custom Azure Security Center recommendation with Azure Policy](https://zimmergren.net/create-custom-security-center-recommendation-with-azure-policy/)
-- 2020-07-08: [Programmatically create Azure Container Instances and connect a Managed Identity](https://zimmergren.net/programmatically-create-azure-container-instances-and-connect-a-managed-identity/)
