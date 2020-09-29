@@ -3,6 +3,7 @@
 - 🥇 I am a Microsoft MVP since 12 years.
 - 📰 I've blogged for 15 years about Microsoft tech https://zimmergren.net
 - ⛅ I am running an Azure podcast https://ctrlaltazure.com
+- 💻 I mostly build proprietary source code and systems in my current role. Hence, they are not on GitHub.
 
 ### Connect
 <a href="https://www.linkedin.com/in/zimmergren"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://twitter.com/zimmergren"><img src="https://img.shields.io/twitter/follow/zimmergren?label=Twitter&style=social" alt="Twitter"></a>
