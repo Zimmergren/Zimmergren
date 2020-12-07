@@ -11,8 +11,8 @@
 📫💡🙏 Connect with me on LinkedIn, Twitter or through my blog.
 
 ### Recently published
-- 2020-09-22: [Purging container images from Azure Container Registry](https://zimmergren.net/purging-container-images-from-azure-container-registry/)
-- 2020-09-22: [Passing AZ-500: Microsoft Certified Azure Security Engineer Associate](https://zimmergren.net/passing-az-500-microsoft-certified-azure-security-engineer-associate/)
+- 2020-11-05: [Purging container images from Azure Container Registry](https://zimmergren.net/purging-container-images-from-azure-container-registry/)
+- 2020-10-09: [Passing AZ-500: Microsoft Certified Azure Security Engineer Associate](https://zimmergren.net/passing-az-500-microsoft-certified-azure-security-engineer-associate/)
 - 2020-09-22: [Favorite Visual Studio Code Extensions for Azure](https://zimmergren.net/favorite-visual-studio-code-extensions-for-azure/)
 - 2020-09-17: [Discover issues with Azure Functions and App Service using Application Insights](https://zimmergren.net/discover-issues-azure-functions-app-services-using-application-insights/)
 - 2020-09-14: [GitHub Actions for Security Code Analysis](https://zimmergren.net/github-actions-for-security-code-analysis/)
