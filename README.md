@@ -15,10 +15,9 @@
 📫💡🙏 Connect with me on LinkedIn, Twitter or through my blog.
 
 ### Recently published
-- 2020-11-05: [Purging container images from Azure Container Registry](https://zimmergren.net/purging-container-images-from-azure-container-registry/)
-- 2020-10-09: [Passing AZ-500: Microsoft Certified Azure Security Engineer Associate](https://zimmergren.net/passing-az-500-microsoft-certified-azure-security-engineer-associate/)
-- 2020-09-22: [Favorite Visual Studio Code Extensions for Azure](https://zimmergren.net/favorite-visual-studio-code-extensions-for-azure/)
-- 2020-09-17: [Discover issues with Azure Functions and App Service using Application Insights](https://zimmergren.net/discover-issues-azure-functions-app-services-using-application-insights/)
-- 2020-09-14: [GitHub Actions for Security Code Analysis](https://zimmergren.net/github-actions-for-security-code-analysis/)
-- 2020-09-08: [Use the Microsoft Application Inspector to analyse source code](https://zimmergren.net/use-microsoft-application-inspector-to-analyze-source-code/)
-- 2020-08-24: [Get notified of changes in Azure Key Vault by using Event Grid](https://zimmergren.net/get-notified-of-changes-in-azure-key-vault-using-event-grid/)
+- 2021-02-03: [Samsung Galaxy Tab S7+ Review: Can you do real work with this device?](https://zimmergren.net/samsung-galaxy-tab-s7-review-can-you-do-real-work/)
+- 2021-01-26: [Querying data from multiple Application Insights instances](https://zimmergren.net/querying-data-from-multiple-application-insights-instances/)
+- 2021-01-22: [Upgrade Application Insights to Workspace-based Resource Mode from Classic](https://zimmergren.net/upgrade-application-insights-to-workspace-based-from-legacy/)
+- 2020-12-11: [Azure App Service tips: Increase reliability with the Auto-Healing features](https://zimmergren.net/azure-app-service-increase-reliability-auto-heal/)
+- 2020-12-10: [Introducing the LogAnalytics.Client NuGet for .NET Core](https://zimmergren.net/azure-app-service-increase-reliability-auto-heal/)
+- 2020-12-10: [https://zimmergren.net/introducing-the-loganalytics-client-nuget/](https://zimmergren.net/introducing-the-loganalytics-client-nuget/)
