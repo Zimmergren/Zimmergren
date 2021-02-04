@@ -19,5 +19,4 @@
 - 2021-01-26: [Querying data from multiple Application Insights instances](https://zimmergren.net/querying-data-from-multiple-application-insights-instances/)
 - 2021-01-22: [Upgrade Application Insights to Workspace-based Resource Mode from Classic](https://zimmergren.net/upgrade-application-insights-to-workspace-based-from-legacy/)
 - 2020-12-11: [Azure App Service tips: Increase reliability with the Auto-Healing features](https://zimmergren.net/azure-app-service-increase-reliability-auto-heal/)
-- 2020-12-10: [Introducing the LogAnalytics.Client NuGet for .NET Core](https://zimmergren.net/azure-app-service-increase-reliability-auto-heal/)
-- 2020-12-10: [https://zimmergren.net/introducing-the-loganalytics-client-nuget/](https://zimmergren.net/introducing-the-loganalytics-client-nuget/)
+- 2020-12-10: [Introducing the LogAnalytics.Client NuGet for .NET Core](https://zimmergren.net/introducing-the-loganalytics-client-nuget/)
