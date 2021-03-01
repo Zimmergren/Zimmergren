@@ -1,5 +1,3 @@
-![Zimmergren's github stats](https://github-readme-stats.vercel.app/api?username=zimmergren&count_private=true&show_icons=true)
-
 ### Hi, I'm Tobias!
 - 🔭 Pleased to meet you. I am Tobias Zimmergren.
 - 🥇 I am a Microsoft MVP since 12 years.
