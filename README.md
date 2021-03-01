@@ -15,6 +15,7 @@
 📫💡🙏 Connect with me on LinkedIn, Twitter or through my blog.
 
 ### Recently published
+- 2021-02-12: [Securing Microsoft Teams](https://zimmergren.net/securing-microsoft-teams/)
 - 2021-02-03: [Samsung Galaxy Tab S7+ Review: Can you do real work with this device?](https://zimmergren.net/samsung-galaxy-tab-s7-review-can-you-do-real-work/)
 - 2021-01-26: [Querying data from multiple Application Insights instances](https://zimmergren.net/querying-data-from-multiple-application-insights-instances/)
 - 2021-01-22: [Upgrade Application Insights to Workspace-based Resource Mode from Classic](https://zimmergren.net/upgrade-application-insights-to-workspace-based-from-legacy/)
