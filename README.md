@@ -13,9 +13,10 @@
 📫💡🙏 Connect with me on LinkedIn, Twitter or through my blog.
 
 ### Recently published
-- 2021-02-12: [Securing Microsoft Teams](https://zimmergren.net/securing-microsoft-teams/)
-- 2021-02-03: [Samsung Galaxy Tab S7+ Review: Can you do real work with this device?](https://zimmergren.net/samsung-galaxy-tab-s7-review-can-you-do-real-work/)
-- 2021-01-26: [Querying data from multiple Application Insights instances](https://zimmergren.net/querying-data-from-multiple-application-insights-instances/)
-- 2021-01-22: [Upgrade Application Insights to Workspace-based Resource Mode from Classic](https://zimmergren.net/upgrade-application-insights-to-workspace-based-from-legacy/)
-- 2020-12-11: [Azure App Service tips: Increase reliability with the Auto-Healing features](https://zimmergren.net/azure-app-service-increase-reliability-auto-heal/)
-- 2020-12-10: [Introducing the LogAnalytics.Client NuGet for .NET Core](https://zimmergren.net/introducing-the-loganalytics-client-nuget/)
+- 2021-06-24: [Productivity tips for PowerToys Run on Windows](https://zimmergren.net/productivity-tips-powertoys-run-windows/)
+- 2021-05-26: [Visualize Log Analytics data ingestion using Azure Sentinel](https://zimmergren.net/visualize-log-analytics-data-ingestion-using-azure-sentinel/)
+- 2021-05-21: [Create Azure DevOps or GitHub bugs from Azure Monitor logs](https://zimmergren.net/easily-create-tickets-from-azure-monitor-to-azure-devops-or-github/)
+- 2021-05-18: [Discover sensitive Key Vault operations with Azure Sentinel](https://zimmergren.net/sensitive-key-vault-operations-with-azure-sentinel/)
+- 2021-03-26: [Making Windows Terminal look awesome with oh-my-posh](https://zimmergren.net/making-windows-terminal-look-awesome-with-oh-my-posh/)
+- 2021-03-23: [Getting started with Azure Bicep](https://zimmergren.net/getting-started-azure-bicep/)
+- 2021-03-18: [Backing up all Azure Key Vault Secrets, Keys, and Certificates](https://zimmergren.net/backup-azure-key-vault-secrets-keys-certificates/)
