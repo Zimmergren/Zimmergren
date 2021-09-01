@@ -13,10 +13,10 @@
 📫💡🙏 Connect with me on LinkedIn, Twitter or through my blog.
 
 ### Recently published
+- 2021-09-01: [Deep-linking Azure Log Analytics and Application Insights queries](https://zimmergren.net/deep-linking-azure-log-analytics-and-app-insight-queries/)
+- 2021-08-05: [Enforce authentication when sending Application Insights telemetry](https://zimmergren.net/enforce-authentication-when-sending-application-insights-telemetry/)
+- 2021-07-27: [Establish your organizational compliance readiness](https://zimmergren.net/establish-cloud-compliance-readiness/)
 - 2021-06-24: [Productivity tips for PowerToys Run on Windows](https://zimmergren.net/productivity-tips-powertoys-run-windows/)
 - 2021-05-26: [Visualize Log Analytics data ingestion using Azure Sentinel](https://zimmergren.net/visualize-log-analytics-data-ingestion-using-azure-sentinel/)
 - 2021-05-21: [Create Azure DevOps or GitHub bugs from Azure Monitor logs](https://zimmergren.net/easily-create-tickets-from-azure-monitor-to-azure-devops-or-github/)
 - 2021-05-18: [Discover sensitive Key Vault operations with Azure Sentinel](https://zimmergren.net/sensitive-key-vault-operations-with-azure-sentinel/)
-- 2021-03-26: [Making Windows Terminal look awesome with oh-my-posh](https://zimmergren.net/making-windows-terminal-look-awesome-with-oh-my-posh/)
-- 2021-03-23: [Getting started with Azure Bicep](https://zimmergren.net/getting-started-azure-bicep/)
-- 2021-03-18: [Backing up all Azure Key Vault Secrets, Keys, and Certificates](https://zimmergren.net/backup-azure-key-vault-secrets-keys-certificates/)
