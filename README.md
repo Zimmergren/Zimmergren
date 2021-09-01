@@ -1,6 +1,6 @@
 ### Hi, I'm Tobias!
 - 🔭 Pleased to meet you. I am Tobias Zimmergren.
-- 🥇 I am a Microsoft MVP since 12 years.
+- 🥇 I am a Microsoft MVP since 13 years (2008 -> today).
 - 📰 I've blogged for 15 years about Microsoft tech https://zimmergren.net
 - ⛅ I am running an Azure podcast https://ctrlaltazure.com
 - 💻 I mostly build **proprietary source code** and systems in my current role. Hence, they are not on GitHub.
