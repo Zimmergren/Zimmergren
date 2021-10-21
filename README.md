@@ -13,6 +13,7 @@
 📫💡🙏 Connect with me on LinkedIn, Twitter or through my blog.
 
 ### Recently published
+- 2021-10-18: [Sending e-mails with Microsoft Graph using .NET](https://zimmergren.net/sending-e-mails-using-microsoft-graph-using-dotnet/)
 - 2021-09-01: [Deep-linking Azure Log Analytics and Application Insights queries](https://zimmergren.net/deep-linking-azure-log-analytics-and-app-insight-queries/)
 - 2021-08-05: [Enforce authentication when sending Application Insights telemetry](https://zimmergren.net/enforce-authentication-when-sending-application-insights-telemetry/)
 - 2021-07-27: [Establish your organizational compliance readiness](https://zimmergren.net/establish-cloud-compliance-readiness/)
