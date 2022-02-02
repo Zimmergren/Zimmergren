@@ -13,9 +13,9 @@
 📫💡🙏 Connect with me on LinkedIn, Twitter or through my blog.
 
 ### Recently published
+- 2022-02-01: [Using the Azure Load Testing service](https://zimmergren.net/using-the-azure-load-testing-service/)
+- 2022-01-24: [Get the Container Instances usage in an Azure subscription](https://zimmergren.net/get-container-instances-usage-in-azure-subscription/)
+- 2021-12-22: [Create Azure Monitor Alert Rules with Azure Bicep](https://zimmergren.net/create-azure-monitor-alert-rules-with-bicep/)
 - 2021-11-01: [Quickly discover any expiring certificates for Azure App Services](https://zimmergren.net/discover-expiring-azure-app-services-certificates/)
 - 2021-10-18: [Sending e-mails with Microsoft Graph using .NET](https://zimmergren.net/sending-e-mails-using-microsoft-graph-using-dotnet/)
 - 2021-09-01: [Deep-linking Azure Log Analytics and Application Insights queries](https://zimmergren.net/deep-linking-azure-log-analytics-and-app-insight-queries/)
-- 2021-08-05: [Enforce authentication when sending Application Insights telemetry](https://zimmergren.net/enforce-authentication-when-sending-application-insights-telemetry/)
-- 2021-07-27: [Establish your organizational compliance readiness](https://zimmergren.net/establish-cloud-compliance-readiness/)
-- 2021-06-24: [Productivity tips for PowerToys Run on Windows](https://zimmergren.net/productivity-tips-powertoys-run-windows/)
