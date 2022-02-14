@@ -13,6 +13,7 @@
 📫💡🙏 Connect with me on LinkedIn, Twitter or through my blog.
 
 ### Recently published
+- 2022-02-09: [Track your Secure Score over time in Azure](https://zimmergren.net/secure-score-over-time-in-azure/)
 - 2022-02-01: [Using the Azure Load Testing service](https://zimmergren.net/using-the-azure-load-testing-service/)
 - 2022-01-24: [Get the Container Instances usage in an Azure subscription](https://zimmergren.net/get-container-instances-usage-in-azure-subscription/)
 - 2021-12-22: [Create Azure Monitor Alert Rules with Azure Bicep](https://zimmergren.net/create-azure-monitor-alert-rules-with-bicep/)
