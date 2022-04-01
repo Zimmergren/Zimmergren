@@ -13,6 +13,7 @@
 📫💡🙏 Connect with me on LinkedIn, Twitter or through my blog.
 
 ### Recently published
+- 2022-03-31: [Obfuscate strings in KQL queries](https://zimmergren.net/obfuscate-strings-in-kql-queries-adx/)
 - 2022-02-22: [Generate Bicep templates from existing Azure resources with VS Code](https://zimmergren.net/generate-bicep-templates-from-existing-azure-resources-vscode/)
 - 2022-02-18: [Understanding Azure Log Analytics query auditing](https://zimmergren.net/understanding-azure-log-analytics-query-auditing/)
 - 2022-02-09: [Track your Secure Score over time in Azure](https://zimmergren.net/secure-score-over-time-in-azure/)
