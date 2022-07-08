@@ -1,9 +1,9 @@
 ### Hi, I'm Tobias!
 - 🔭 Pleased to meet you. I am Tobias Zimmergren.
 - 🥇 I was an Microsoft MVP for 13 years (awarded between 2008-2022). I joined Microsoft in 2022, resulting in retiring from the MVP program.
-- 📰 I've blogged for 15 years about Microsoft tech https://zimmergren.net
-- ⛅ I am running an Azure podcast https://ctrlaltazure.com
-- 💻 I mostly build **proprietary source code** and systems in my current role. Hence, they are not on GitHub.
+- 📰 I've blogged for 15 years about Microsoft tech on [zimmergren.net](https://zimmergren.net)
+- 🎙️ I am the co-host of the popular [Ctrl+Alt+Azure Podcast](https://ctrlaltazure.com)
+- 💻 Most of my code over the years has been proprietary, and isn't on GitHub. 
 
 <!--![Top Code Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zimmergren&layout=compact)-->
 
