@@ -15,7 +15,7 @@
 
 ### Recently published
 
-- 2022-10-27 [Favorite security-focused open-source workbooks for Azure Monitor and Microsoft Sentinel
+- 2022-10-27: [Favorite security-focused open-source workbooks for Azure Monitor and Microsoft Sentinel
 ](https://zimmergren.net/open-source-azure-monitor-microsoft-sentinel-workbooks/)
 - 2022-08-31: [How to: Remind me to reply to messages in Microsoft Teams](https://zimmergren.net/remind-me-messages-microsoft-teams/)
 - 2022-08-25: [Testing your internet speed from the command line on Windows, Linux, or Mac](https://zimmergren.net/testing-your-internet-speed-from-the-command-line/)
