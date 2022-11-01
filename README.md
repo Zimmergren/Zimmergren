@@ -15,13 +15,12 @@
 
 ### Recently published
 
+- 2022-10-27 [Favorite security-focused open-source workbooks for Azure Monitor and Microsoft Sentinel
+](https://zimmergren.net/open-source-azure-monitor-microsoft-sentinel-workbooks/)
 - 2022-08-31: [How to: Remind me to reply to messages in Microsoft Teams](https://zimmergren.net/remind-me-messages-microsoft-teams/)
 - 2022-08-25: [Testing your internet speed from the command line on Windows, Linux, or Mac](https://zimmergren.net/testing-your-internet-speed-from-the-command-line/)
 - 2022-08-04: [Exam Study Guide: SC-100 - Microsoft Cybersecurity Architect Expert](https://zimmergren.net/exam-study-guide-sc100-microsoft-cybersecurity-architect-expert/)
 - 2022-07-06: [I'm working at Microsoft](https://zimmergren.net/working-at-microsoft/)
 - 2022-04-29: [Three habits to improve health and work-life balance](https://zimmergren.net/habits-to-improve-health-and-work-life-balance/)
 - 2022-04-27: [Top 3 favorite capabilities in Microsoft Defender for Cloud](https://zimmergren.net/top-capabilities-in-microsoft-defender-for-cloud/)
-- 2022-04-25: [Fixing the "Loading Microsoft Teams" infinite loop](https://zimmergren.net/fixing-the-loading-microsoft-teams-infinite-loop/)
-- 2022-04-21: [Estimating the real cost of Microsoft Defender for Cloud](https://zimmergren.net/estimate-the-cost-of-microsoft-defender-for-cloud/)
-- 2022-04-04: [Favorite Visual Studio Code extensions](https://zimmergren.net/top-visual-studio-code-extensions/)
 - ... Visit [Zimmergren.net](https://zimmergren.net) for more.
