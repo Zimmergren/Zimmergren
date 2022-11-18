@@ -24,3 +24,5 @@
 - 2022-04-29: [Three habits to improve health and work-life balance](https://zimmergren.net/habits-to-improve-health-and-work-life-balance/)
 - 2022-04-27: [Top 3 favorite capabilities in Microsoft Defender for Cloud](https://zimmergren.net/top-capabilities-in-microsoft-defender-for-cloud/)
 - ... Visit [Zimmergren.net](https://zimmergren.net) for more.
+
+<a rel="me" style="display:none" href="https://mastodon.world/@zimmergren"></a>
