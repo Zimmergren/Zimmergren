@@ -15,14 +15,17 @@
 
 ### Recently published
 
-- 2022-10-27: [Favorite security-focused open-source workbooks for Azure Monitor and Microsoft Sentinel
-](https://zimmergren.net/open-source-azure-monitor-microsoft-sentinel-workbooks/)
-- 2022-08-31: [How to: Remind me to reply to messages in Microsoft Teams](https://zimmergren.net/remind-me-messages-microsoft-teams/)
-- 2022-08-25: [Testing your internet speed from the command line on Windows, Linux, or Mac](https://zimmergren.net/testing-your-internet-speed-from-the-command-line/)
-- 2022-08-04: [Exam Study Guide: SC-100 - Microsoft Cybersecurity Architect Expert](https://zimmergren.net/exam-study-guide-sc100-microsoft-cybersecurity-architect-expert/)
-- 2022-07-06: [I'm working at Microsoft](https://zimmergren.net/working-at-microsoft/)
-- 2022-04-29: [Three habits to improve health and work-life balance](https://zimmergren.net/habits-to-improve-health-and-work-life-balance/)
-- 2022-04-27: [Top 3 favorite capabilities in Microsoft Defender for Cloud](https://zimmergren.net/top-capabilities-in-microsoft-defender-for-cloud/)
-- ... Visit [Zimmergren.net](https://zimmergren.net) for more.
+- 2023-10-20: [Frameworks to strategically improve your cybersecurity](https://zimmergren.net/frameworks-to-improve-your-cybersecurity-nist-mitre-cisa-ciso/)
+- 2023-10-18: [Learnings from the NSA and CISA top 10 cybersecurity misconfigurations](https://zimmergren.net/nsa-cisa-top-10-cybersecurity-misconfigurations/)
+- 2023-10-16: [What is the Cybercrime Atlas?](https://zimmergren.net/cybersecurity-what-is-the-cybercrime-atlas/)
+- 2023-08-24: [Celebrating 200 episodes of the Ctrl+Alt+Azure podcast](https://zimmergren.net/celebrating-200-episodes-of-the-ctrl-alt-azure-podcast/)
+- 2023-04-24: [Redacting sensitive information with Application Insights in C#](https://zimmergren.net/redacting-sensitive-information-application-insights/)
+- 2022-12-21: [Ultra-wide (21:9) vs a typical 4K (16:9) monitor for productive work](https://zimmergren.net/ultrawide-versus-4k-monitor/)
+- 2022-12-16: [Reading e-mails with Microsoft Graph using .NET](https://zimmergren.net/reading-emails-with-microsoft-graph-using-net/)
+- 2022-12-13: [A short recap of ESPC 2022](https://zimmergren.net/recap-of-espc-2022/)
+- 2022-12-01: [Build sustainable solutions on Azure and save money](https://zimmergren.net/building-sustainable-cloud-solutions-azure/)
+- 2022-10-27: [Favorite security-focused open-source workbooks for Azure Monitor and Microsoft Sentinel](https://zimmergren.net/open-source-azure-monitor-microsoft-sentinel-workbooks/)
+
+... Visit [Zimmergren.net](https://zimmergren.net) for more.
 
 <a rel="me" style="display:none" href="https://mastodon.world/@zimmergren"></a>
