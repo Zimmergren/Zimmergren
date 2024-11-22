@@ -1,20 +1,21 @@
 ### Hi, I'm Tobias!
 - 🔭 Pleased to meet you. I am Tobias Zimmergren.
-- 🏢 I am a Cloud Architecture Content Lead at Microsoft in the Cloud Architecture Content Team.
+- 🏢 I am a Principal Content Lead at Microsoft.
 - 🥇 I was an Microsoft MVP for 13 years (awarded between 2008-2022). I joined Microsoft in 2022, resulting in retiring from the MVP program.
-- 📰 I've blogged for 15 years about Microsoft tech on [zimmergren.net](https://zimmergren.net)
-- 🎙️ I am the co-host of the popular [Ctrl+Alt+Azure Podcast](https://ctrlaltazure.com)
+- 📰 I've blogged for 15 years about Microsoft tech on [zimmergren.net](https://zimmergren.net).
+- 🎙️ I am the co-host of the popular [Ctrl+Alt+Azure Podcast](https://ctrlaltazure.com).
 - 💻 Most of my work over the years has been proprietary and strategic, and isn't on GitHub.
 
 <!--![Top Code Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zimmergren&layout=compact)-->
 
 ### Connect
-<a href="https://www.linkedin.com/in/zimmergren"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://twitter.com/zimmergren"><img src="https://img.shields.io/twitter/follow/zimmergren?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/zimmergren"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> 🦋 <a href="https://bsky.app/profile/zimmergren.net">@zimmergren.net</a> on BlueSky
 
 📫💡🙏 Connect with me on LinkedIn, Twitter or through my blog.
 
 ### Recently published
 
+- 2024-01-04: [Staying productive with the Pomodoro Technique](https://zimmergren.net/stay-productive-with-the-pomodoro-technique/)
 - 2023-10-20: [Frameworks to strategically improve your cybersecurity](https://zimmergren.net/frameworks-to-improve-your-cybersecurity-nist-mitre-cisa-ciso/)
 - 2023-10-18: [Learnings from the NSA and CISA top 10 cybersecurity misconfigurations](https://zimmergren.net/nsa-cisa-top-10-cybersecurity-misconfigurations/)
 - 2023-10-16: [What is the Cybercrime Atlas?](https://zimmergren.net/cybersecurity-what-is-the-cybercrime-atlas/)
